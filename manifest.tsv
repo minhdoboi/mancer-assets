@@ -98,6 +98,312 @@ cards/disciples.prisoner.jpg	resources/themes/vibe/Cards/Prisoner.jpg
 cards/disciples.prophet.jpg	resources/themes/vibe/Cards/false prophet.jpg
 cards/disciples.scarecrow.jpg	resources/themes/vibe/Cards/Scarecrow.jpg
 cards/disciples.wind.jpg	resources/themes/vibe/Cards/wind of oppression.jpg
+cards/darksider.dragon.name.jpg	resources/themes/vibe/Cards/Black dragon.jpg
+cards/darksider.faceless.name.jpg	resources/themes/vibe/Cards/Faceless horror.jpg
+cards/darksider.fallen.name.jpg	resources/themes/vibe/Cards/Fallen mage.jpg
+cards/darksider.knight.name.jpg	resources/themes/vibe/Cards/Black knight.jpg
+cards/darksider.lake.name.jpg	resources/themes/vibe/Cards/Lake of oblivion.jpg
+cards/darksider.mystic.name.jpg	resources/themes/vibe/Cards/Dark mystic.jpg
+cards/darksider.spider.name.jpg	resources/themes/vibe/Cards/Wolf spider.jpg
+cards/darksider.warlock.name.jpg	resources/themes/vibe/Cards/Warlock.jpg
+cards/faerie.cloud.jpg	resources/themes/vibe/Cards/Butterfly Cloud.jpg
+cards/faerie.dragon.jpg	resources/themes/vibe/Cards/Faerie Dragon.jpg
+cards/faerie.fire.jpg	resources/themes/vibe/Cards/Faerie Fire.jpg
+cards/faerie.nightwing.jpg	resources/themes/vibe/Cards/Nightwing Butterfly.jpg
+cards/faerie.piper.jpg	resources/themes/vibe/Cards/Faerie Piper.jpg
+cards/faerie.rabble.jpg	resources/themes/vibe/Cards/Butterfly Rabble.jpg
+cards/faerie.ring.jpg	resources/themes/vibe/Cards/Faerie Ring.jpg
+cards/faerie.twins.jpg	resources/themes/vibe/Cards/Faerie Twins.jpg
+cards/faerie.unicorn.jpg	resources/themes/vibe/Cards/Unicorn.jpg
+cards/fairy.1head.jpg	resources/themes/vibe/Cards/one-headed gorynych.jpg
+cards/fairy.2head.jpg	resources/themes/vibe/Cards/two-headed gorynych.jpg
+cards/fairy.alkonost.jpg	resources/themes/vibe/Cards/Alkonost.jpg
+cards/fairy.firebird.jpg	resources/themes/vibe/Cards/Firebird.jpg
+cards/fairy.kikimora.jpg	resources/themes/vibe/Cards/Kikimora.jpg
+cards/fairy.lesovik.jpg	resources/themes/vibe/Cards/Lesovik.jpg
+cards/fairy.likho.jpg	resources/themes/vibe/Cards/Likho.jpg
+cards/fairy.rusalka.jpg	resources/themes/vibe/Cards/Rusalka.jpg
+cards/fairy.sirin.jpg	resources/themes/vibe/Cards/Sirin.jpg
+cards/fairy.vodyanoy.jpg	resources/themes/vibe/Cards/Vodyanoy.jpg
+cards/fairy.zmey.jpg	resources/themes/vibe/Cards/Zmey Gorynych.jpg
+cards/Andore.jpg	resources/themes/vibe/Cards/Andore.jpg
+cards/Axl.jpg	resources/themes/vibe/Cards/Axl.jpg
+cards/Bill Bull.jpg	resources/themes/vibe/Cards/Bill Bull.jpg
+cards/Bred.jpg	resources/themes/vibe/Cards/Bred.jpg
+cards/Edi E.jpg	resources/themes/vibe/Cards/Edi E.jpg
+cards/El Gado.jpg	resources/themes/vibe/Cards/El Gado.jpg
+cards/Rolento.jpg	resources/themes/vibe/Cards/Rolento.jpg
+cards/Two P.jpg	resources/themes/vibe/Cards/Two P.jpg
+cards/vampires.acolyte.jpg	resources/themes/vibe/Cards/Acolyte.jpg
+cards/vampires.aristocrat.jpg	resources/themes/vibe/Cards/Aristocrat.jpg
+cards/vampires.flock.jpg	resources/themes/vibe/Cards/Dark flock.jpg
+cards/vampires.ghoul.jpg	resources/themes/vibe/Cards/Ghoul.jpg
+cards/vampires.mansion.jpg	resources/themes/vibe/Cards/Mansion.jpg
+cards/vampires.neophyte.jpg	resources/themes/vibe/Cards/Neophyte.jpg
+cards/vampires.noctule.jpg	resources/themes/vibe/Cards/Noctule.jpg
+cards/vampires.nosferatu.jpg	resources/themes/vibe/Cards/Nosferatu.jpg
+cards/vampires.ties.jpg	resources/themes/vibe/Cards/Blood ties.jpg
+cards/warp.cloak.jpg	resources/themes/vibe/Cards/Cloak.jpg
+cards/warp.errant.jpg	resources/themes/vibe/Cards/Errant.jpg
+cards/warp.photographer.jpg	resources/themes/vibe/Cards/Photographer.jpg
+cards/warp.quake.jpg	resources/themes/vibe/Cards/EarthQuake.jpg
+cards/warp.queen.jpg	resources/themes/vibe/Cards/Warp Queen.jpg
+cards/warp.ram.jpg	resources/themes/vibe/Cards/Ram.jpg
+cards/warp.schizo.jpg	resources/themes/vibe/Cards/Schizo.jpg
+cards/warp.stranger.jpg	resources/themes/vibe/Cards/Stranger.jpg
+cards/snowblood.amaterasu.jpg	resources/themes/vibe/Cards/Amaterasu.jpg
+cards/snowblood.echo.jpg	resources/themes/vibe/Cards/Echo.jpg
+cards/snowblood.guide.jpg	resources/themes/vibe/Cards/War guide.jpg
+cards/snowblood.hunter.jpg	resources/themes/vibe/Cards/Bounty hunter.jpg
+cards/snowblood.janus.jpg	resources/themes/vibe/Cards/Janus.jpg
+cards/snowblood.kojiro.jpg	resources/themes/vibe/Cards/Kojiro.jpg
+cards/snowblood.letter.jpg	resources/themes/vibe/Cards/Death letter.jpg
+cards/snowblood.maiko.jpg	resources/themes/vibe/Cards/Maiko.jpg
+cards/snowblood.tracker.jpg	resources/themes/vibe/Cards/Tracker.jpg
+cards/dreamweaver.aurora.jpg	resources/themes/vibe/Cards/Aurora.jpg
+cards/dreamweaver.butterfly.jpg	resources/themes/vibe/Cards/Rainbow Butterfly.jpg
+cards/dreamweaver.castle.jpg	resources/themes/vibe/Cards/Flying Castle.jpg
+cards/dreamweaver.guide.jpg	resources/themes/vibe/Cards/Spiritual Guide.jpg
+cards/dreamweaver.mare.jpg	resources/themes/vibe/Cards/Night Mare.jpg
+cards/dreamweaver.roc.jpg	resources/themes/vibe/Cards/Roc Hatchling.jpg
+cards/dreamweaver.sword.jpg	resources/themes/vibe/Cards/Living Sword.jpg
+cards/dreamweaver.wisp.jpg	resources/themes/vibe/Cards/Ethereal Wisp.jpg
+cards/junk.assassin.jpg	resources/themes/vibe/Cards/Roaming assassin.jpg
+cards/junk.bot.jpg	resources/themes/vibe/Cards/Recycling Bot.jpg
+cards/junk.chain.jpg	resources/themes/vibe/Cards/Chain controller.jpg
+cards/junk.cyborg.jpg	resources/themes/vibe/Cards/Trash Cyborg.jpg
+cards/junk.factory.jpg	resources/themes/vibe/Cards/Factory.jpg
+cards/junk.fortune.jpg	resources/themes/vibe/Cards/Junkyard fortune.jpg
+cards/junk.poison.jpg	resources/themes/vibe/Cards/Poison flower.jpg
+cards/junk.screamer.jpg	resources/themes/vibe/Cards/Screamer.jpg
+cards/junk.trash.jpg	resources/themes/vibe/Cards/Trash.jpg
+cards/battlemage.cavalier.jpg	resources/themes/vibe/Cards/Golden Cavalier.jpg
+cards/battlemage.fieldmage.jpg	resources/themes/vibe/Cards/Field Mage.jpg
+cards/battlemage.knight.jpg	resources/themes/vibe/Cards/Charging Knight.jpg
+cards/battlemage.retinue.jpg	resources/themes/vibe/Cards/Generals Retinue.jpg
+cards/battlemage.rune.jpg	resources/themes/vibe/Cards/Rune Warrior.jpg
+cards/battlemage.sergeant.jpg	resources/themes/vibe/Cards/Silver Sergeant.jpg
+cards/battlemage.taunt.jpg	resources/themes/vibe/Cards/Taunt.jpg
+cards/battlemage.warcry.jpg	resources/themes/vibe/Cards/Sonorous Warcry.jpg
+cards/antimancer.0.name.jpg	resources/themes/vibe/Cards/Angry Mob.jpg
+cards/antimancer.2.name.jpg	resources/themes/vibe/Cards/Mirror Priest.jpg
+cards/antimancer.3.name.jpg	resources/themes/vibe/Cards/Resistance.jpg
+cards/antimancer.4.name.jpg	resources/themes/vibe/Cards/Retaliator.jpg
+cards/antimancer.5.name.jpg	resources/themes/vibe/Cards/Martyr.jpg
+cards/antimancer.6.name.jpg	resources/themes/vibe/Cards/Harvester.jpg
+cards/antimancer.7.name.jpg	resources/themes/vibe/Cards/Voodoo Doll.jpg
+cards/antimancer.8.name.jpg	resources/themes/vibe/Cards/Bombardier.jpg
+cards/antimancer.9.name.jpg	resources/themes/vibe/Cards/Bribery.jpg
+cards/powermancer.avatar.air.jpg	resources/themes/vibe/Cards/Air Avatar.jpg
+cards/powermancer.avatar.earth.jpg	resources/themes/vibe/Cards/Earth Avatar.jpg
+cards/powermancer.avatar.fire.jpg	resources/themes/vibe/Cards/Fire Avatar.jpg
+cards/powermancer.avatar.water.jpg	resources/themes/vibe/Cards/Water Avatar.jpg
+cards/powermancer.bargain.jpg	resources/themes/vibe/Cards/Infernal Bargain.jpg
+cards/powermancer.burial.jpg	resources/themes/vibe/Cards/Eternal Burial.jpg
+cards/powermancer.equilibrium.jpg	resources/themes/vibe/Cards/Equilibrium.jpg
+cards/powermancer.hound.jpg	resources/themes/vibe/Cards/Astral Hound.jpg
+cards/powermancer.hunter.jpg	resources/themes/vibe/Cards/Power Hunter.jpg
+cards/powermancer.rainbow.jpg	resources/themes/vibe/Cards/Rainbow Avatars.jpg
+cards/powermancer.stasis.jpg	resources/themes/vibe/Cards/Stasis.jpg
+cards/powermancer.tower.jpg	resources/themes/vibe/Cards/Ivory Tower.jpg
+cards/shadowmage.archer.jpg	resources/themes/vibe/Cards/Shadow Archer.jpg
+cards/shadowmage.assassin.jpg	resources/themes/vibe/Cards/Grandmaster Assassin.jpg
+cards/shadowmage.eclipse.jpg	resources/themes/vibe/Cards/Eclipse.jpg
+cards/shadowmage.silencer.jpg	resources/themes/vibe/Cards/Silencer.jpg
+cards/shadowmage.spike.jpg	resources/themes/vibe/Cards/Spike of Pain.jpg
+cards/shadowmage.stalker.jpg	resources/themes/vibe/Cards/Shade Stalker.jpg
+cards/shadowmage.warden.jpg	resources/themes/vibe/Cards/Dark Warden.jpg
+cards/shadowmage.weaver.jpg	resources/themes/vibe/Cards/Nightshroud Weaver.jpg
+cards/colors.Amber.name.jpg	resources/themes/vibe/Cards/Amber.jpg
+cards/colors.Azure.name.jpg	resources/themes/vibe/Cards/Azure.jpg
+cards/colors.Crimson.name.jpg	resources/themes/vibe/Cards/Crimson.jpg
+cards/colors.Discoloration.name.jpg	resources/themes/vibe/Cards/Discoloration.jpg
+cards/colors.Emerald.name.jpg	resources/themes/vibe/Cards/Emerald.jpg
+cards/colors.Gold.name.jpg	resources/themes/vibe/Cards/Gold.jpg
+cards/colors.Silver.name.jpg	resources/themes/vibe/Cards/Silver.jpg
+cards/colors.Violet.name.jpg	resources/themes/vibe/Cards/Violet.jpg
+cards/limbo.adjudicator.jpg	resources/themes/vibe/Cards/Soul Adjudicator.jpg
+cards/limbo.baron.jpg	resources/themes/vibe/Cards/Limbo Baron.jpg
+cards/limbo.heaven.jpg	resources/themes/vibe/Cards/Heavens Keeper.jpg
+cards/limbo.hell.jpg	resources/themes/vibe/Cards/Hells Keeper.jpg
+cards/limbo.nether.jpg	resources/themes/vibe/Cards/Nether Grasp.jpg
+cards/limbo.redemption.jpg	resources/themes/vibe/Cards/Redemption.jpg
+cards/limbo.tower.jpg	resources/themes/vibe/Cards/Tower of sins.jpg
+cards/limbo.wraith.jpg	resources/themes/vibe/Cards/Limbo Wraith.jpg
+cards/rogue.archer.jpg	resources/themes/vibe/Cards/Dark Archer.jpg
+cards/rogue.assassin.jpg	resources/themes/vibe/Cards/Elven Assassin.jpg
+cards/rogue.dancer.jpg	resources/themes/vibe/Cards/Shadow Dancer.jpg
+cards/rogue.fighter.jpg	resources/themes/vibe/Cards/Street Fighter.jpg
+cards/rogue.sneak.jpg	resources/themes/vibe/Cards/Sneak Attack.jpg
+cards/rogue.thief.jpg	resources/themes/vibe/Cards/Energy Thief.jpg
+cards/rogue.trap.jpg	resources/themes/vibe/Cards/Arcane Trap.jpg
+cards/rogue.trickster.jpg	resources/themes/vibe/Cards/Halfling Trickster.jpg
+cards/tinker.automaton.jpg	resources/themes/vibe/Cards/Automaton.jpg
+cards/tinker.bomb.jpg	resources/themes/vibe/Cards/Tinkerbomb.jpg
+cards/tinker.dragon.jpg	resources/themes/vibe/Cards/Steam Dragon.jpg
+cards/tinker.falcon.jpg	resources/themes/vibe/Cards/Clockwork Falcon.jpg
+cards/tinker.plant.jpg	resources/themes/vibe/Cards/Tinker.jpg
+cards/tinker.queen.jpg	resources/themes/vibe/Cards/Clockwork Queen.jpg
+cards/tinker.scatter.jpg	resources/themes/vibe/Cards/Scatterbomb.jpg
+cards/tinker.soldier.jpg	resources/themes/vibe/Cards/Steam Soldier.jpg
+cards/tinker.spider.jpg	resources/themes/vibe/Cards/Clockwork Spider.jpg
+cards/tinker.jpg	resources/themes/vibe/Cards/Tinker.jpg
+cards/entomologist.ant.jpg	resources/themes/vibe/Cards/Giant Ant.jpg
+cards/entomologist.assassin.jpg	resources/themes/vibe/Cards/Assassin Wasp.jpg
+cards/entomologist.beetle.jpg	resources/themes/vibe/Cards/Fire Beetle.jpg
+cards/entomologist.drone.jpg	resources/themes/vibe/Cards/Wasp Drone.jpg
+cards/entomologist.hive.jpg	resources/themes/vibe/Cards/Insect Hive.jpg
+cards/entomologist.hivemind.jpg	resources/themes/vibe/Cards/Hivemind.jpg
+cards/entomologist.locust.jpg	resources/themes/vibe/Cards/Locust Swarm.jpg
+cards/entomologist.mantis.jpg	resources/themes/vibe/Cards/Red Mantis.jpg
+cards/entomologist.moth.jpg	resources/themes/vibe/Cards/Poisonpowder Moth.jpg
+cards/entomologist.warrior.jpg	resources/themes/vibe/Cards/Insect Warrior.jpg
+cards/soulbinder.dragon.jpg	resources/themes/vibe/Cards/Spirit Dragon.jpg
+cards/soulbinder.priestess.jpg	resources/themes/vibe/Cards/Priestess of Passage.jpg
+cards/soulbinder.release.jpg	resources/themes/vibe/Cards/Spiritual Release.jpg
+cards/soulbinder.seeker.jpg	resources/themes/vibe/Cards/Soul Seeker.jpg
+cards/soulbinder.sheppard.jpg	resources/themes/vibe/Cards/Soul Sheppard.jpg
+cards/soulbinder.summon.jpg	resources/themes/vibe/Cards/Spiritual Summoning.jpg
+cards/soulbinder.tethered.jpg	resources/themes/vibe/Cards/Tethered Soul.jpg
+cards/soulbinder.tree.jpg	resources/themes/vibe/Cards/Soulseed Tree.jpg
+cards/shadowcaster.assassin.jpg	resources/themes/vibe/Cards/Dark Elf Assassin.jpg
+cards/shadowcaster.bat.jpg	resources/themes/vibe/Cards/Giant Bat.jpg
+cards/shadowcaster.mage.jpg	resources/themes/vibe/Cards/Dark Elf Mage.jpg
+cards/shadowcaster.moonblade.jpg	resources/themes/vibe/Cards/Moonblade.jpg
+cards/shadowcaster.noble.jpg	resources/themes/vibe/Cards/Dark Elf Noble.jpg
+cards/shadowcaster.priestess.jpg	resources/themes/vibe/Cards/Priestess of Shadows.jpg
+cards/shadowcaster.scythe.jpg	resources/themes/vibe/Cards/Shadow Scythe.jpg
+cards/shadowcaster.wave.jpg	resources/themes/vibe/Cards/Shadow Wave.jpg
+cards/spiritshaman.awakening.jpg	resources/themes/vibe/Cards/Spiritual Awakening.jpg
+cards/spiritshaman.bear.jpg	resources/themes/vibe/Cards/Bear Totem.jpg
+cards/spiritshaman.bear.spirit.jpg	resources/themes/vibe/Cards/Bear Spirit.jpg
+cards/spiritshaman.deer.jpg	resources/themes/vibe/Cards/Deer Totem.jpg
+cards/spiritshaman.deer.spirit.jpg	resources/themes/vibe/Cards/Deer Spirit.jpg
+cards/spiritshaman.eagle.jpg	resources/themes/vibe/Cards/Eagle Totem.jpg
+cards/spiritshaman.eagle.spirit.jpg	resources/themes/vibe/Cards/Eagle Spirit.jpg
+cards/spiritshaman.fox.jpg	resources/themes/vibe/Cards/Fox Totem.jpg
+cards/spiritshaman.fox.spirit.jpg	resources/themes/vibe/Cards/Fox Spirit.jpg
+cards/spiritshaman.owl.jpg	resources/themes/vibe/Cards/Owl Totem.jpg
+cards/spiritshaman.owl.spirit.jpg	resources/themes/vibe/Cards/Owl Spirit.jpg
+cards/spiritshaman.panther.jpg	resources/themes/vibe/Cards/Panther Totem.jpg
+cards/spiritshaman.panther.spirit.jpg	resources/themes/vibe/Cards/Panther Spirit.jpg
+cards/spiritshaman.tortoise.jpg	resources/themes/vibe/Cards/Tortoise Totem.jpg
+cards/spiritshaman.tortoise.spirit.jpg	resources/themes/vibe/Cards/Tortoise Spirit.jpg
+cards/conjurer.bravery.jpg	resources/themes/vibe/Cards/Bravery.jpg
+cards/conjurer.golem.jpg	resources/themes/vibe/Cards/Bone golem.jpg
+cards/conjurer.guard.jpg	resources/themes/vibe/Cards/Unholy guard.jpg
+cards/conjurer.mystic.jpg	resources/themes/vibe/Cards/conjurer/Dark mystic.jpg
+cards/conjurer.nectar.jpg	resources/themes/vibe/Cards/Lavender nectar.jpg
+cards/conjurer.nurture.jpg	resources/themes/vibe/Cards/Nurture rite.jpg
+cards/conjurer.pain.jpg	resources/themes/vibe/Cards/Pain of essence.jpg
+cards/conjurer.warmage.jpg	resources/themes/vibe/Cards/War mage.jpg
+cards/quantumancer.cosmic.jpg	resources/themes/vibe/Cards/Cosmic Mage.jpg
+cards/quantumancer.fusion.jpg	resources/themes/vibe/Cards/Fusion Elemental.jpg
+cards/quantumancer.kineticist.jpg	resources/themes/vibe/Cards/Kineticist.jpg
+cards/quantumancer.martyr.jpg	resources/themes/vibe/Cards/Magnetic Martyr.jpg
+cards/quantumancer.sealing.jpg	resources/themes/vibe/Cards/Spirit of Sealing.jpg
+cards/quantumancer.surge.jpg	resources/themes/vibe/Cards/Power Surge.jpg
+cards/quantumancer.wall.jpg	resources/themes/vibe/Cards/Phosphor Wall.jpg
+cards/quantumancer.warrior.jpg	resources/themes/vibe/Cards/Dimension Warrior.jpg
+cards/meteomancer.clairvoyant.jpg	resources/themes/vibe/Cards/Clairvoyant.jpg
+cards/meteomancer.extremophile.jpg	resources/themes/vibe/Cards/Extremophile.jpg
+cards/meteomancer.fateweaver.jpg	resources/themes/vibe/Cards/Fateweaver.jpg
+cards/meteomancer.grenadier.jpg	resources/themes/vibe/Cards/Astral Grenadier.jpg
+cards/meteomancer.mistwalker.jpg	resources/themes/vibe/Cards/Mistwalker.jpg
+cards/meteomancer.prism.jpg	resources/themes/vibe/Cards/Prism Mage.jpg
+cards/meteomancer.storm.jpg	resources/themes/vibe/Cards/Astral Storm.jpg
+cards/meteomancer.thief.jpg	resources/themes/vibe/Cards/Lightning Thief.jpg
+cards/seasons.AiluvBees.name.jpg	resources/themes/vibe/Cards/Ailuv Bees.jpg
+cards/seasons.BehemothofFrozenTime.name.jpg	resources/themes/vibe/Cards/Behemoth of Frozen Time.jpg
+cards/seasons.Cornucopia.name.jpg	resources/themes/vibe/Cards/Cornucopia.jpg
+cards/seasons.EternalSummer.name.jpg	resources/themes/vibe/Cards/Eternal Summer.jpg
+cards/seasons.GaeasAvatar.name.jpg	resources/themes/vibe/Cards/Gaea s Avatar.jpg
+cards/seasons.Nectarbloom.name.jpg	resources/themes/vibe/Cards/Nectarbloom.jpg
+cards/seasons.SolarWave.name.jpg	resources/themes/vibe/Cards/Solar Wave.jpg
+cards/seasons.SpiritofEquinox.name.jpg	resources/themes/vibe/Cards/Spirit of Equinox.jpg
+cards/seasons.TheGreatAurora.name.jpg	resources/themes/vibe/Cards/The Great Aurora.jpg
+cards/reaper.damnation.jpg	resources/themes/vibe/Cards/Damnation.jpg
+cards/reaper.furious.jpg	resources/themes/vibe/Cards/Furious souls.jpg
+cards/reaper.onslaught.jpg	resources/themes/vibe/Cards/Onslaught of souls.jpg
+cards/reaper.passage.jpg	resources/themes/vibe/Cards/Dark Passage.jpg
+cards/reaper.rage.jpg	resources/themes/vibe/Cards/Eternal Rage.jpg
+cards/reaper.sentence.jpg	resources/themes/vibe/Cards/Death Sentence.jpg
+cards/reaper.shackles.jpg	resources/themes/vibe/Cards/Soul Shackles.jpg
+cards/reaper.tribute.jpg	resources/themes/vibe/Cards/Tribute.jpg
+cards/sower.devouring.jpg	resources/themes/vibe/Cards/Devouring.jpg
+cards/sower.drake.jpg	resources/themes/vibe/Cards/Forest drake.jpg
+cards/sower.flower.jpg	resources/themes/vibe/Cards/Fiery flower.jpg
+cards/sower.monster.jpg	resources/themes/vibe/Cards/Monster plant.jpg
+cards/sower.pollination.jpg	resources/themes/vibe/Cards/Pollination.jpg
+cards/sower.predator.jpg	resources/themes/vibe/Cards/Predator plant.jpg
+cards/sower.sundew.jpg	resources/themes/vibe/Cards/Blood sundew.jpg
+cards/sower.tangling.jpg	resources/themes/vibe/Cards/Tangling.jpg
+cards/shaman.fury.jpg	resources/themes/vibe/Cards/Phantom fury.jpg
+cards/shaman.ghost.jpg	resources/themes/vibe/Cards/ghost wolf.jpg
+cards/shaman.hunger.jpg	resources/themes/vibe/Cards/Unappeasable Hunger.jpg
+cards/shaman.hunter.jpg	resources/themes/vibe/Cards/Spirit hunter.jpg
+cards/shaman.mate.jpg	resources/themes/vibe/Cards/Phantom mate.jpg
+cards/shaman.moon.jpg	resources/themes/vibe/Cards/Power of full moon.jpg
+cards/shaman.protector.jpg	resources/themes/vibe/Cards/Spirit protector.jpg
+cards/shaman.rage.jpg	resources/themes/vibe/Cards/Spirit of rage.jpg
+cards/shaman.shadow.jpg	resources/themes/vibe/Cards/Wolf shadow.jpg
+cards/mountainking.ArmourcladDwarf.name.jpg	resources/themes/vibe/Cards/Armour-clad Dwarf.jpg
+cards/mountainking.Ballista.name.jpg	resources/themes/vibe/Cards/Ballista.jpg
+cards/mountainking.Berserker.name.jpg	resources/themes/vibe/Cards/Berserker.jpg
+cards/mountainking.DwarvenShieldman.name.jpg	resources/themes/vibe/Cards/Dwarven shieldman.jpg
+cards/mountainking.DwarvenSoldier.name.jpg	resources/themes/vibe/Cards/Dwarven soldier.jpg
+cards/mountainking.DwarvenСrossbowman.name.jpg	resources/themes/vibe/Cards/Dwarven crossbowman.jpg
+cards/mountainking.MountainKingCard.name.jpg	resources/themes/vibe/Cards/Mountain king.jpg
+cards/mountainking.Runesmith.name.jpg	resources/themes/vibe/Cards/Runesmith.jpg
+cards/mountainking.jpg	resources/themes/vibe/Cards/Mountain king.jpg
+cards/darkpriest.Betrayer.name.jpg	resources/themes/vibe/Cards/Betrayer.jpg
+cards/darkpriest.BlackAngel.name.jpg	resources/themes/vibe/Cards/Black Angel.jpg
+cards/darkpriest.BlackMass.name.jpg	resources/themes/vibe/Cards/Black Mass.jpg
+cards/darkpriest.BlackMonk.name.jpg	resources/themes/vibe/Cards/Black monk.jpg
+cards/darkpriest.DarkHydra.name.jpg	resources/themes/vibe/Cards/Dark hydra.jpg
+cards/darkpriest.EnergyVampire.name.jpg	resources/themes/vibe/Cards/Energy vampire.jpg
+cards/darkpriest.Ghost.name.jpg	resources/themes/vibe/Cards/Ghost.jpg
+cards/darkpriest.Heretic.name.jpg	resources/themes/vibe/Cards/Heretic.jpg
+cards/darkpriest.Missionary.name.jpg	resources/themes/vibe/Cards/Missionary.jpg
+cards/darkpriest.Occultist.name.jpg	resources/themes/vibe/Cards/Occultist.jpg
+cards/darkpriest.RestlessSoul.name.jpg	resources/themes/vibe/Cards/Restless soul.jpg
+cards/darkpriest.ShadowOfPriest.name.jpg	resources/themes/vibe/Cards/Shadow of Priest.jpg
+cards/elementalist.avalanche.jpg	resources/themes/vibe/Cards/Avalanche.jpg
+cards/elementalist.freeze.jpg	resources/themes/vibe/Cards/Deep freeze.jpg
+cards/elementalist.frost.jpg	resources/themes/vibe/Cards/Frost lightning.jpg
+cards/elementalist.golem.jpg	resources/themes/vibe/Cards/Stone golem.jpg
+cards/elementalist.incineration.jpg	resources/themes/vibe/Cards/Incineration.jpg
+cards/elementalist.phoenix.jpg	resources/themes/vibe/Cards/ArchPhoenix.jpg
+cards/elementalist.salamander.jpg	resources/themes/vibe/Cards/Salamander.jpg
+cards/elementalist.sylph.jpg	resources/themes/vibe/Cards/Sylph.jpg
+cards/highpriest.Ammit.jpg	resources/themes/vibe/Cards/Ammit.jpg
+cards/highpriest.Ancientcrocodile.jpg	resources/themes/vibe/Cards/Ancient crocodile.jpg
+cards/highpriest.Anubite.jpg	resources/themes/vibe/Cards/Anubite.jpg
+cards/highpriest.Apep.jpg	resources/themes/vibe/Cards/Apep.jpg
+cards/highpriest.Apis.jpg	resources/themes/vibe/Cards/Apis.jpg
+cards/highpriest.Babi.jpg	resources/themes/vibe/Cards/Babi.jpg
+cards/highpriest.Bennu.jpg	resources/themes/vibe/Cards/Bennu.jpg
+cards/highpriest.Curseofchaos.jpg	resources/themes/vibe/Cards/Curse of chaos.jpg
+cards/highpriest.EyeofWajet.jpg	resources/themes/vibe/Cards/Eye of wajet.jpg
+cards/highpriest.Ouroboros.jpg	resources/themes/vibe/Cards/Ouroboros.jpg
+cards/highpriest.Sacredscarab.jpg	resources/themes/vibe/Cards/Sacred scarab.jpg
+cards/highpriest.Serpopard.jpg	resources/themes/vibe/Cards/Serpopard.jpg
+cards/highpriest.Simoom.jpg	resources/themes/vibe/Cards/Simooom.jpg
+cards/highpriest.Wingeddragon.jpg	resources/themes/vibe/Cards/Winged dragon of Ra.jpg
+cards/highpriest.guardianmummy.jpg	resources/themes/vibe/Cards/guardian mummy.jpg
+cards/highpriest.puzzle.jpg	resources/themes/vibe/Cards/puzzle.jpg
+cards/highpriest.serpent.jpg	resources/themes/vibe/Cards/serpent of eternity.jpg
+cards/highpriest.sphinx.jpg	resources/themes/vibe/Cards/Sphinx.jpg
+cards/highpriest.sunpriest.jpg	resources/themes/vibe/Cards/Sun priest.jpg
+cards/highpriest.sunstone.jpg	resources/themes/vibe/Cards/sun stone.jpg
+cards/kinetician.barrier.jpg	resources/themes/vibe/Cards/Force barrier.jpg
+cards/kinetician.call.jpg	resources/themes/vibe/Cards/Call the fittest.jpg
+cards/kinetician.force.jpg	resources/themes/vibe/Cards/Focused Force.jpg
+cards/kinetician.mage.jpg	resources/themes/vibe/Cards/Lone mage.jpg
+cards/kinetician.magerunner.jpg	resources/themes/vibe/Cards/Magerunner.jpg
+cards/kinetician.manipulator.jpg	resources/themes/vibe/Cards/Manipulator.jpg
+cards/kinetician.tricker.jpg	resources/themes/vibe/Cards/Tricker.jpg
+cards/kinetician.warp.jpg	resources/themes/vibe/Cards/Warp reality.jpg
 backgrounds/default.jpg	resources/themes/vibe/Backgrounds/default.jpg
 backgrounds/fire.jpg	resources/themes/vibe/Backgrounds/fire.jpg
 backgrounds/water.jpg	resources/themes/vibe/Backgrounds/water.jpg
@@ -108,6 +414,39 @@ backgrounds/zen.jpg	resources/themes/vibe/Backgrounds/zen.jpg
 backgrounds/wind.jpg	resources/themes/vibe/Backgrounds/wind.jpg
 backgrounds/chronomaster.jpg	resources/themes/vibe/Backgrounds/chronomaster.jpg
 backgrounds/disciples.jpg	resources/themes/vibe/Backgrounds/disciples.jpg
+backgrounds/darksider.jpg	resources/themes/vibe/Backgrounds/darksider.jpg
+backgrounds/faerie.jpg	resources/themes/vibe/Backgrounds/faerie druid.jpg
+backgrounds/fairy.jpg	resources/themes/vibe/Backgrounds/fairy knight.jpg
+backgrounds/Dudes.jpg	resources/themes/vibe/Backgrounds/dudes.jpg
+backgrounds/vampires.jpg	resources/themes/vibe/Backgrounds/vampires.jpg
+backgrounds/warp.jpg	resources/themes/vibe/Backgrounds/warp.jpg
+backgrounds/snowblood.jpg	resources/themes/vibe/Backgrounds/snowblood.jpg
+backgrounds/dreamweaver.jpg	resources/themes/vibe/Backgrounds/dreamweaver.jpg
+backgrounds/junk.jpg	resources/themes/vibe/Backgrounds/junk.jpg
+backgrounds/battlemage.jpg	resources/themes/vibe/Backgrounds/battlemage.jpg
+backgrounds/antimancer.jpg	resources/themes/vibe/Backgrounds/antimancer.jpg
+backgrounds/powermancer.jpg	resources/themes/vibe/Backgrounds/powermancer.jpg
+backgrounds/shadowmage.jpg	resources/themes/vibe/Backgrounds/shadowmage.jpg
+backgrounds/colors.jpg	resources/themes/vibe/Backgrounds/colors.jpg
+backgrounds/limbo.jpg	resources/themes/vibe/Backgrounds/limbo.jpg
+backgrounds/rogue.jpg	resources/themes/vibe/Backgrounds/rogue.jpg
+backgrounds/tinker.jpg	resources/themes/vibe/Backgrounds/tinker.jpg
+backgrounds/entomologist.jpg	resources/themes/vibe/Backgrounds/entomologist.jpg
+backgrounds/soulbinder.jpg	resources/themes/vibe/Backgrounds/soulbinder.jpg
+backgrounds/shadowcaster.jpg	resources/themes/vibe/Backgrounds/shadowcaster.jpg
+backgrounds/spiritshaman.jpg	resources/themes/vibe/Backgrounds/spirit shaman.jpg
+backgrounds/conjurer.jpg	resources/themes/vibe/Backgrounds/conjurer.jpg
+backgrounds/quantumancer.jpg	resources/themes/vibe/Backgrounds/quantumancer.jpg
+backgrounds/meteomancer.jpg	resources/themes/vibe/Backgrounds/meteomancer.jpg
+backgrounds/seasons.jpg	resources/themes/vibe/Backgrounds/seasons.jpg
+backgrounds/reaper.jpg	resources/themes/vibe/Backgrounds/soul reaper.jpg
+backgrounds/sower.jpg	resources/themes/vibe/Backgrounds/sower.jpg
+backgrounds/shaman.jpg	resources/themes/vibe/Backgrounds/shaman.jpg
+backgrounds/mountainking.jpg	resources/themes/vibe/Backgrounds/mountain king.jpg
+backgrounds/darkpriest.jpg	resources/themes/vibe/Backgrounds/dark priest.jpg
+backgrounds/elementalist.jpg	resources/themes/vibe/Backgrounds/elementalist.jpg
+backgrounds/highpriest.jpg	resources/themes/vibe/Backgrounds/high priest.jpg
+backgrounds/kinetician.jpg	resources/themes/vibe/Backgrounds/kinetician.jpg
 combat/raka.png	resources/Images/Combat/raka.tga
 combat/rakaSpell.png	resources/Images/Combat/rakaSpell.tga
 combat/slot.png	resources/Images/Combat/slot.tga
