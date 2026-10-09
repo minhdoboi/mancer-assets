@@ -1,0 +1,17 @@
+mancer-assets — card art, portraits, backgrounds, sounds, shaders, UI,
+and other game media in this repository (not third-party fonts; see
+fonts/IMFellEnglish-OFL.txt).
+
+Copyright (C) 2026 Minh Do Boi <doboiminh@gmail.com>
+
+These files are part of the mancer game and are licensed under the
+GNU Affero General Public License, version 3 or later. The full license
+text is in the mancer-ml repository:
+
+  https://github.com/minhdoboi/mancer-ml/blob/main/LICENSE
+
+You may use and adapt this media only on terms compatible with that
+license. If you distribute a product that includes these assets, you
+must provide corresponding source for the combined work under
+AGPL-3.0 (or later), which limits use to open source–compatible
+projects in practice.

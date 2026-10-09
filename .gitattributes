@@ -1,0 +1,8 @@
+# The face originals under source/ are big (1024x1024 portraits, ~98 MB), so
+# they live in git-lfs and never enter git history as blobs. Nothing else in
+# this repository is tracked with lfs, so a clone can run the game without
+# git-lfs installed.
+source/** filter=lfs diff=lfs merge=lfs -text
+
+# Prose stays readable: a pointer file would show instead of the text.
+source/*.md -filter -diff -merge text eol=lf
