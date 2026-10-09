@@ -1,0 +1,281 @@
+i18n/en.properties	core/src/main/resources/i18n.properties
+i18n/es.properties	core/src/main/resources/i18n_es.properties
+i18n/fr.properties	core/src/main/resources/i18n_fr.properties
+i18n/ru.properties	core/src/main/resources/i18n_ru.properties
+i18n/vi.properties	core/src/main/resources/i18n_vi.properties
+cards/fire.apocalypse.jpg	resources/themes/vibe/Cards/Apocalypse.jpg
+cards/fire.blargl.jpg	resources/themes/vibe/Cards/Blargl.jpg
+cards/fire.bull.jpg	resources/themes/vibe/Cards/Bull Commander.jpg
+cards/fire.dragon.jpg	resources/themes/vibe/Cards/Dragon.jpg
+cards/fire.drake.jpg	resources/themes/vibe/Cards/Drake.jpg
+cards/fire.elemental.jpg	resources/themes/vibe/Cards/Fire Elemental.jpg
+cards/fire.goblin.jpg	resources/themes/vibe/Cards/Goblin.jpg
+cards/fire.inferno.jpg	resources/themes/vibe/Cards/Inferno.jpg
+cards/fire.monk.jpg	resources/themes/vibe/Cards/Fire monk.jpg
+cards/fire.orc.jpg	resources/themes/vibe/Cards/Orc chieftain.jpg
+cards/fire.wall.jpg	resources/themes/vibe/Cards/Wall of flame.jpg
+cards/fire.wave.jpg	resources/themes/vibe/Cards/Flame wave.jpg
+cards/water.apostate.jpg	resources/themes/vibe/Cards/Merfolk Apostate.jpg
+cards/water.astral.jpg	resources/themes/vibe/Cards/Astral guard.jpg
+cards/water.elder.jpg	resources/themes/vibe/Cards/Merfolk Elder.jpg
+cards/water.elemental.jpg	resources/themes/vibe/Cards/Water Elemental.jpg
+cards/water.golem.jpg	resources/themes/vibe/Cards/Ice Golem.jpg
+cards/water.guard.jpg	resources/themes/vibe/Cards/Ice guard.jpg
+cards/water.lord.jpg	resources/themes/vibe/Cards/Sea Lord.jpg
+cards/water.meditate.jpg	resources/themes/vibe/Cards/Meditate.jpg
+cards/water.mind.jpg	resources/themes/vibe/Cards/Mind Master.jpg
+cards/water.shower.jpg	resources/themes/vibe/Cards/Acidic shower.jpg
+cards/water.sprite.jpg	resources/themes/vibe/Cards/sea sprite.jpg
+cards/water.turtle.jpg	resources/themes/vibe/Cards/HugeTurtle.jpg
+cards/air.call.jpg	resources/themes/vibe/Cards/Call to thunder.jpg
+cards/air.chain.jpg	resources/themes/vibe/Cards/Chain lightning.jpg
+cards/air.cloud.jpg	resources/themes/vibe/Cards/Cloud.jpg
+cards/air.elemental.jpg	resources/themes/vibe/Cards/Air Elemental.jpg
+cards/air.fairy.jpg	resources/themes/vibe/Cards/Faerie novice.jpg
+cards/air.fence.jpg	resources/themes/vibe/Cards/Lightning fence.jpg
+cards/air.griffin.jpg	resources/themes/vibe/Cards/Griffin.jpg
+cards/air.lightnin.jpg	resources/themes/vibe/Cards/Lightnin.jpg
+cards/air.medic.jpg	resources/themes/vibe/Cards/Air medic.jpg
+cards/air.phoenix.jpg	resources/themes/vibe/Cards/Phoenix.jpg
+cards/air.titan.jpg	resources/themes/vibe/Cards/Titan.jpg
+cards/air.twister.jpg	resources/themes/vibe/Cards/Twister.jpg
+cards/earth.care.jpg	resources/themes/vibe/Cards/Natures care.jpg
+cards/earth.elemental.jpg	resources/themes/vibe/Cards/Earth Elemental.jpg
+cards/earth.elven.jpg	resources/themes/vibe/Cards/Elven.jpg
+cards/earth.forestspider.jpg	resources/themes/vibe/Cards/forest spider.jpg
+cards/earth.fury.jpg	resources/themes/vibe/Cards/Fury.jpg
+cards/earth.healer.jpg	resources/themes/vibe/Cards/Master healer.jpg
+cards/earth.hermit.jpg	resources/themes/vibe/Cards/woods hermit.jpg
+cards/earth.hugespider.jpg	resources/themes/vibe/Cards/Huge spider.jpg
+cards/earth.hydra.jpg	resources/themes/vibe/Cards/Hydra.jpg
+cards/earth.shower.jpg	resources/themes/vibe/Cards/Stone shower.jpg
+cards/earth.sprite.jpg	resources/themes/vibe/Cards/Forest Sprite.jpg
+cards/earth.therapy.jpg	resources/themes/vibe/Cards/Plant therapy.jpg
+cards/earth.troll.jpg	resources/themes/vibe/Cards/Troll.jpg
+cards/Barracks.jpg	resources/themes/vibe/Cards/Barracks.jpg
+cards/Conscription.jpg	resources/themes/vibe/Cards/Conscription.jpg
+cards/Goliath.jpg	resources/themes/vibe/Cards/Goliath.jpg
+cards/Marine.jpg	resources/themes/vibe/Cards/Marine.jpg
+cards/NuclearMissile.jpg	resources/themes/vibe/Cards/NuclearMissile.jpg
+cards/ScienceVessel.jpg	resources/themes/vibe/Cards/ScienceVessel.jpg
+cards/SiegeTank.jpg	resources/themes/vibe/Cards/SiegeTank.jpg
+cards/Wraith.jpg	resources/themes/vibe/Cards/Wraith.jpg
+cards/zen.dreamer.jpg	resources/themes/vibe/Cards/Dreamer.jpg
+cards/zen.elementesist.jpg	resources/themes/vibe/Cards/Elementesist.jpg
+cards/zen.fighter.jpg	resources/themes/vibe/Cards/Zen Fighter.jpg
+cards/zen.focus.jpg	resources/themes/vibe/Cards/Focus.jpg
+cards/zen.guard.jpg	resources/themes/vibe/Cards/Electric guard.jpg
+cards/zen.inertia.jpg	resources/themes/vibe/Cards/Inertia.jpg
+cards/zen.matter.jpg	resources/themes/vibe/Cards/Matter.jpg
+cards/zen.mimic.jpg	resources/themes/vibe/Cards/Mimic.jpg
+cards/zen.redlight.jpg	resources/themes/vibe/Cards/Redlight.jpg
+cards/zen.cocoon.jpg	resources/themes/vibe/Cards/Cocoon.jpg
+cards/wind.BallLightning.name.jpg	resources/themes/vibe/Cards/Ball Lightning.jpg
+cards/wind.EnergeticVortex.name.jpg	resources/themes/vibe/Cards/Energetic vortex.jpg
+cards/wind.EternalStorm.name.jpg	resources/themes/vibe/Cards/Eternal Storm.jpg
+cards/wind.Simoom.name.jpg	resources/themes/vibe/Cards/Simoom.jpg
+cards/wind.Squall.name.jpg	resources/themes/vibe/Cards/Squall.jpg
+cards/wind.TheSpiritOfThunderstorm.name.jpg	resources/themes/vibe/Cards/The spirit of thunderstorm.jpg
+cards/wind.Whirlwind.name.jpg	resources/themes/vibe/Cards/Whirlwind.jpg
+cards/wind.WingedWarrior.name.jpg	resources/themes/vibe/Cards/Winged Warrior.jpg
+cards/chronomaster.accelerate.jpg	resources/themes/vibe/Cards/Accelerate Time.jpg
+cards/chronomaster.aging.jpg	resources/themes/vibe/Cards/Aging.jpg
+cards/chronomaster.freeze.jpg	resources/themes/vibe/Cards/Freeze.jpg
+cards/chronomaster.groundhog.jpg	resources/themes/vibe/Cards/Groundhog Day.jpg
+cards/chronomaster.king.jpg	resources/themes/vibe/Cards/Chrono King.jpg
+cards/chronomaster.queen.jpg	resources/themes/vibe/Cards/Chrono Queen.jpg
+cards/chronomaster.sprites.jpg	resources/themes/vibe/Cards/Light Sprites.jpg
+cards/chronomaster.wall.jpg	resources/themes/vibe/Cards/Time Distortion Wall.jpg
+cards/disciples.drug.jpg	resources/themes/vibe/Cards/Speed drug.jpg
+cards/disciples.enraged.jpg	resources/themes/vibe/Cards/Enraged Prisoner.jpg
+cards/disciples.escape.jpg	resources/themes/vibe/Cards/Astral escape.jpg
+cards/disciples.falconer.jpg	resources/themes/vibe/Cards/Falconer.jpg
+cards/disciples.liberator.jpg	resources/themes/vibe/Cards/Liberator.jpg
+cards/disciples.madden.jpg	resources/themes/vibe/Cards/Madden.jpg
+cards/disciples.monk.jpg	resources/themes/vibe/Cards/Dark monk.jpg
+cards/disciples.preacher.jpg	resources/themes/vibe/Cards/Preacher.jpg
+cards/disciples.prisoner.jpg	resources/themes/vibe/Cards/Prisoner.jpg
+cards/disciples.prophet.jpg	resources/themes/vibe/Cards/false prophet.jpg
+cards/disciples.scarecrow.jpg	resources/themes/vibe/Cards/Scarecrow.jpg
+cards/disciples.wind.jpg	resources/themes/vibe/Cards/wind of oppression.jpg
+backgrounds/default.jpg	resources/themes/vibe/Backgrounds/default.jpg
+backgrounds/fire.jpg	resources/themes/vibe/Backgrounds/fire.jpg
+backgrounds/water.jpg	resources/themes/vibe/Backgrounds/water.jpg
+backgrounds/air.jpg	resources/themes/vibe/Backgrounds/air.jpg
+backgrounds/earth.jpg	resources/themes/vibe/Backgrounds/earth.jpg
+backgrounds/Troopers.jpg	resources/themes/vibe/Backgrounds/troopers.jpg
+backgrounds/zen.jpg	resources/themes/vibe/Backgrounds/zen.jpg
+backgrounds/wind.jpg	resources/themes/vibe/Backgrounds/wind.jpg
+backgrounds/chronomaster.jpg	resources/themes/vibe/Backgrounds/chronomaster.jpg
+backgrounds/disciples.jpg	resources/themes/vibe/Backgrounds/disciples.jpg
+combat/raka.png	resources/Images/Combat/raka.tga
+combat/rakaSpell.png	resources/Images/Combat/rakaSpell.tga
+combat/slot.png	resources/Images/Combat/slot.tga
+particle/particle.png	core/src/main/resources/src/images/particle.png
+particle/smoke.png	core/src/main/resources/src/images/smoke.png
+particle/thin.png	core/src/main/resources/src/images/thin.png
+ui/finished.png	core/src/main/resources/data/ui/finished.png
+ui/lobby-elements.png	core/src/main/resources/data/ui/lobby-elements.png
+ui/new.png	core/src/main/resources/data/ui/new.png
+ui/parchment.png	core/src/main/resources/data/ui/parchment.png
+ui/play-turn.png	core/src/main/resources/data/ui/play-turn.png
+ui/play.png	core/src/main/resources/data/ui/play.png
+ui/quit.png	core/src/main/resources/data/ui/quit.png
+ui/restart.png	core/src/main/resources/data/ui/restart.png
+ui/settings.png	core/src/main/resources/data/ui/settings.png
+ui/skip.png	core/src/main/resources/data/ui/skip.png
+ui/switch.png	core/src/main/resources/data/ui/switch.png
+portraits/antimancer.png	core/src/main/resources/data/portraits/antimancer.png
+portraits/ash-wanderer.png	core/src/main/resources/data/portraits/ash-wanderer.png
+portraits/battlemage.png	core/src/main/resources/data/portraits/battlemage.png
+portraits/beaver.png	core/src/main/resources/data/portraits/beaver.png
+portraits/catboy.png	core/src/main/resources/data/portraits/catboy.png
+portraits/chronomaster.png	core/src/main/resources/data/portraits/chronomaster.png
+portraits/colors.png	core/src/main/resources/data/portraits/colors.png
+portraits/conjurer.png	core/src/main/resources/data/portraits/conjurer.png
+portraits/crowd.png	core/src/main/resources/data/portraits/crowd.png
+portraits/darkpriest.png	core/src/main/resources/data/portraits/darkpriest.png
+portraits/darksider.png	core/src/main/resources/data/portraits/darksider.png
+portraits/deer.png	core/src/main/resources/data/portraits/deer.png
+portraits/disciples.png	core/src/main/resources/data/portraits/disciples.png
+portraits/diviner-f.png	core/src/main/resources/data/portraits/diviner-f.png
+portraits/diviner.png	core/src/main/resources/data/portraits/diviner.png
+portraits/dreamweaver.png	core/src/main/resources/data/portraits/dreamweaver.png
+portraits/duckwoman.png	core/src/main/resources/data/portraits/duckwoman.png
+portraits/elder.png	core/src/main/resources/data/portraits/elder.png
+portraits/elementalist.png	core/src/main/resources/data/portraits/elementalist.png
+portraits/ember.png	core/src/main/resources/data/portraits/ember.png
+portraits/fairy_knight.png	core/src/main/resources/data/portraits/fairy_knight.png
+portraits/farmer.png	core/src/main/resources/data/portraits/farmer.png
+portraits/fisherman.png	core/src/main/resources/data/portraits/fisherman.png
+portraits/fishman.png	core/src/main/resources/data/portraits/fishman.png
+portraits/gale.png	core/src/main/resources/data/portraits/gale.png
+portraits/gambler-f.png	core/src/main/resources/data/portraits/gambler-f.png
+portraits/gambler.png	core/src/main/resources/data/portraits/gambler.png
+portraits/girl.png	core/src/main/resources/data/portraits/girl.png
+portraits/grove-crone.png	core/src/main/resources/data/portraits/grove-crone.png
+portraits/grove.png	core/src/main/resources/data/portraits/grove.png
+portraits/highpriest.png	core/src/main/resources/data/portraits/highpriest.png
+portraits/junk.png	core/src/main/resources/data/portraits/junk.png
+portraits/kinetician.png	core/src/main/resources/data/portraits/kinetician.png
+portraits/lamp-scribe.png	core/src/main/resources/data/portraits/lamp-scribe.png
+portraits/lecturer-f.png	core/src/main/resources/data/portraits/lecturer-f.png
+portraits/lecturer.png	core/src/main/resources/data/portraits/lecturer.png
+portraits/limbo.png	core/src/main/resources/data/portraits/limbo.png
+portraits/mist-seer.png	core/src/main/resources/data/portraits/mist-seer.png
+portraits/mountainking.png	core/src/main/resources/data/portraits/mountainking.png
+portraits/night-scholar.png	core/src/main/resources/data/portraits/night-scholar.png
+portraits/old-thinker.png	core/src/main/resources/data/portraits/old-thinker.png
+portraits/oracle-f.png	core/src/main/resources/data/portraits/oracle-f.png
+portraits/oracle.png	core/src/main/resources/data/portraits/oracle.png
+portraits/patou.png	core/src/main/resources/data/portraits/patou.png
+portraits/powermancer.png	core/src/main/resources/data/portraits/powermancer.png
+portraits/quantumancer.png	core/src/main/resources/data/portraits/quantumancer.png
+portraits/rabbit.png	core/src/main/resources/data/portraits/rabbit.png
+portraits/ram.png	core/src/main/resources/data/portraits/ram.png
+portraits/river-aunt.png	core/src/main/resources/data/portraits/river-aunt.png
+portraits/rogue.png	core/src/main/resources/data/portraits/rogue.png
+portraits/seasons.png	core/src/main/resources/data/portraits/seasons.png
+portraits/shadowcaster.png	core/src/main/resources/data/portraits/shadowcaster.png
+portraits/shadowmage.png	core/src/main/resources/data/portraits/shadowmage.png
+portraits/shaman.png	core/src/main/resources/data/portraits/shaman.png
+portraits/snowblood.png	core/src/main/resources/data/portraits/snowblood.png
+portraits/soulbinder.png	core/src/main/resources/data/portraits/soulbinder.png
+portraits/soulreaper.png	core/src/main/resources/data/portraits/soulreaper.png
+portraits/sower.png	core/src/main/resources/data/portraits/sower.png
+portraits/spiritshaman.png	core/src/main/resources/data/portraits/spiritshaman.png
+portraits/stout-hearth.png	core/src/main/resources/data/portraits/stout-hearth.png
+portraits/strategist-2.png	core/src/main/resources/data/portraits/strategist-2.png
+portraits/strategist-f.png	core/src/main/resources/data/portraits/strategist-f.png
+portraits/strategist.png	core/src/main/resources/data/portraits/strategist.png
+portraits/summoner-f.png	core/src/main/resources/data/portraits/summoner-f.png
+portraits/summoner.png	core/src/main/resources/data/portraits/summoner.png
+portraits/tide.png	core/src/main/resources/data/portraits/tide.png
+portraits/tinker.png	core/src/main/resources/data/portraits/tinker.png
+portraits/vampires.png	core/src/main/resources/data/portraits/vampires.png
+portraits/warp.png	core/src/main/resources/data/portraits/warp.png
+portraits/zen.png	core/src/main/resources/data/portraits/zen.png
+sounds/apocalypse.mp3	core/src/main/resources/sounds/huge-explosion.mp3
+sounds/lightnin.mp3	core/src/main/resources/sounds/dry-thunder.mp3
+sounds/meditate.mp3	core/src/main/resources/sounds/isteak-bell.mp3
+sounds/move.mp3	core/src/main/resources/sounds/move.mp3
+sounds/damage.mp3	core/src/main/resources/sounds/damage.mp3
+sounds/heal.mp3	core/src/main/resources/sounds/heal.mp3
+sounds/creatureheal.mp3	core/src/main/resources/sounds/creature-heal.mp3
+sounds/win.mp3	core/src/main/resources/sounds/win.mp3
+sounds/lose.mp3	core/src/main/resources/sounds/lose.mp3
+sounds/faeriefire.mp3	core/src/main/resources/sounds/faerie-fire.mp3
+sounds/fury.mp3	core/src/main/resources/sounds/tiger.mp3
+sounds/flamewave.mp3	core/src/main/resources/sounds/spells/flamewave.mp3
+sounds/inferno.mp3	core/src/main/resources/sounds/spells/inferno.mp3
+sounds/incineration.mp3	core/src/main/resources/sounds/spells/incineration.mp3
+sounds/solarwave.mp3	core/src/main/resources/sounds/spells/solarwave.mp3
+sounds/eternalsummer.mp3	core/src/main/resources/sounds/spells/eternalsummer.mp3
+sounds/calltothunder.mp3	core/src/main/resources/sounds/spells/calltothunder.mp3
+sounds/chainlightning.mp3	core/src/main/resources/sounds/spells/chainlightning.mp3
+sounds/balllightning.mp3	core/src/main/resources/sounds/spells/balllightning.mp3
+sounds/frostlightning.mp3	core/src/main/resources/sounds/spells/frostlightning.mp3
+sounds/twister.mp3	core/src/main/resources/sounds/spells/twister.mp3
+sounds/simoom.mp3	core/src/main/resources/sounds/spells/simoom.mp3
+sounds/simooom.mp3	core/src/main/resources/sounds/spells/simooom.mp3
+sounds/squall.mp3	core/src/main/resources/sounds/spells/squall.mp3
+sounds/whirlwind.mp3	core/src/main/resources/sounds/spells/whirlwind.mp3
+sounds/eternalstorm.mp3	core/src/main/resources/sounds/spells/eternalstorm.mp3
+sounds/energeticvortex.mp3	core/src/main/resources/sounds/spells/energeticvortex.mp3
+sounds/butterflycloud.mp3	core/src/main/resources/sounds/spells/butterflycloud.mp3
+sounds/windofoppression.mp3	core/src/main/resources/sounds/spells/windofoppression.mp3
+sounds/naturescare.mp3	core/src/main/resources/sounds/spells/naturescare.mp3
+sounds/planttherapy.mp3	core/src/main/resources/sounds/spells/planttherapy.mp3
+sounds/redemption.mp3	core/src/main/resources/sounds/spells/redemption.mp3
+sounds/pollination.mp3	core/src/main/resources/sounds/spells/pollination.mp3
+sounds/tangling.mp3	core/src/main/resources/sounds/spells/tangling.mp3
+sounds/focus.mp3	core/src/main/resources/sounds/spells/focus.mp3
+sounds/stoneshower.mp3	core/src/main/resources/sounds/spells/stoneshower.mp3
+sounds/earthquake.mp3	core/src/main/resources/sounds/spells/earthquake.mp3
+sounds/avalanche.mp3	core/src/main/resources/sounds/spells/avalanche.mp3
+sounds/deepfreeze.mp3	core/src/main/resources/sounds/spells/deepfreeze.mp3
+sounds/echo.mp3	core/src/main/resources/sounds/spells/echo.mp3
+sounds/aurora.mp3	core/src/main/resources/sounds/spells/aurora.mp3
+sounds/thegreataurora.mp3	core/src/main/resources/sounds/spells/thegreataurora.mp3
+sounds/blackmass.mp3	core/src/main/resources/sounds/spells/blackmass.mp3
+sounds/nethergrasp.mp3	core/src/main/resources/sounds/spells/nethergrasp.mp3
+sounds/damnation.mp3	core/src/main/resources/sounds/spells/damnation.mp3
+sounds/darkpassage.mp3	core/src/main/resources/sounds/spells/darkpassage.mp3
+sounds/tribute.mp3	core/src/main/resources/sounds/spells/tribute.mp3
+sounds/deathsentence.mp3	core/src/main/resources/sounds/spells/deathsentence.mp3
+sounds/madden.mp3	core/src/main/resources/sounds/spells/madden.mp3
+sounds/curseofchaos.mp3	core/src/main/resources/sounds/spells/curseofchaos.mp3
+sounds/unappeasablehunger.mp3	core/src/main/resources/sounds/spells/unappeasablehunger.mp3
+sounds/eternalrage.mp3	core/src/main/resources/sounds/spells/eternalrage.mp3
+sounds/spiritualsummoning.mp3	core/src/main/resources/sounds/spells/spiritualsummoning.mp3
+sounds/spiritualrelease.mp3	core/src/main/resources/sounds/spells/spiritualrelease.mp3
+sounds/onslaughtofsouls.mp3	core/src/main/resources/sounds/spells/onslaughtofsouls.mp3
+sounds/furioussouls.mp3	core/src/main/resources/sounds/spells/furioussouls.mp3
+sounds/soulshackles.mp3	core/src/main/resources/sounds/spells/soulshackles.mp3
+sounds/darkflock.mp3	core/src/main/resources/sounds/spells/darkflock.mp3
+sounds/bloodties.mp3	core/src/main/resources/sounds/spells/bloodties.mp3
+sounds/devouring.mp3	core/src/main/resources/sounds/spells/devouring.mp3
+sounds/acidicshower.mp3	core/src/main/resources/sounds/spells/acidicshower.mp3
+sounds/poisonflower.mp3	core/src/main/resources/sounds/spells/poisonflower.mp3
+sounds/hivemind.mp3	core/src/main/resources/sounds/spells/hivemind.mp3
+sounds/locustswarm.mp3	core/src/main/resources/sounds/spells/locustswarm.mp3
+sounds/focusedforce.mp3	core/src/main/resources/sounds/spells/focusedforce.mp3
+sounds/forcebarrier.mp3	core/src/main/resources/sounds/spells/forcebarrier.mp3
+sounds/warpreality.mp3	core/src/main/resources/sounds/spells/warpreality.mp3
+sounds/callthefittest.mp3	core/src/main/resources/sounds/spells/callthefittest.mp3
+sounds/resistance.mp3	core/src/main/resources/sounds/spells/resistance.mp3
+sounds/speeddrug.mp3	core/src/main/resources/sounds/spells/speeddrug.mp3
+sounds/discoloration.mp3	core/src/main/resources/sounds/spells/discoloration.mp3
+sounds/bribery.mp3	core/src/main/resources/sounds/spells/bribery.mp3
+sounds/eyeofwajet.mp3	core/src/main/resources/sounds/spells/eyeofwajet.mp3
+sounds/poweroffullmoon.mp3	core/src/main/resources/sounds/spells/poweroffullmoon.mp3
+sounds/phantomfury.mp3	core/src/main/resources/sounds/spells/phantomfury.mp3
+sounds/conscription.mp3	core/src/main/resources/sounds/spells/conscription.mp3
+sounds/nuclearmissile.mp3	core/src/main/resources/sounds/huge-explosion.mp3
+sounds/creature-heal.mp3	core/src/main/resources/sounds/creature-heal.mp3
+sounds/dry-thunder.mp3	core/src/main/resources/sounds/dry-thunder.mp3
+sounds/faerie-fire.mp3	core/src/main/resources/sounds/faerie-fire.mp3
+sounds/huge-explosion.mp3	core/src/main/resources/sounds/huge-explosion.mp3
+sounds/isteak-bell.mp3	core/src/main/resources/sounds/isteak-bell.mp3
+sounds/tiger.mp3	core/src/main/resources/sounds/tiger.mp3
+combat/slot.png	overrides/combat/slot.png
