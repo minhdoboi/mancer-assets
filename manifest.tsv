@@ -172,7 +172,7 @@ cards/junk.assassin.jpg	resources/themes/vibe/Cards/Roaming assassin.jpg
 cards/junk.bot.jpg	resources/themes/vibe/Cards/Recycling Bot.jpg
 cards/junk.chain.jpg	resources/themes/vibe/Cards/Chain controller.jpg
 cards/junk.cyborg.jpg	resources/themes/vibe/Cards/Trash Cyborg.jpg
-cards/junk.factory.jpg	resources/themes/vibe/Cards/Factory.jpg
+cards/junk.factory.jpg	resources/themes/vibe/Cards/Factory Bot.jpg
 cards/junk.fortune.jpg	resources/themes/vibe/Cards/Junkyard fortune.jpg
 cards/junk.poison.jpg	resources/themes/vibe/Cards/Poison flower.jpg
 cards/junk.screamer.jpg	resources/themes/vibe/Cards/Screamer.jpg
@@ -415,6 +415,8 @@ backgrounds/wind.jpg	resources/themes/vibe/Backgrounds/wind.jpg
 backgrounds/chronomaster.jpg	resources/themes/vibe/Backgrounds/chronomaster.jpg
 backgrounds/disciples.jpg	resources/themes/vibe/Backgrounds/disciples.jpg
 backgrounds/darksider.jpg	resources/themes/vibe/Backgrounds/darksider.jpg
+backgrounds/faerie-ground.png	resources/themes/vibe/Backgrounds/faerie druid-ground.png
+backgrounds/faerie-sky.jpg	resources/themes/vibe/Backgrounds/faerie druid-sky.jpg
 backgrounds/faerie.jpg	resources/themes/vibe/Backgrounds/faerie druid.jpg
 backgrounds/fairy.jpg	resources/themes/vibe/Backgrounds/fairy knight.jpg
 backgrounds/Dudes.jpg	resources/themes/vibe/Backgrounds/dudes.jpg
@@ -422,6 +424,8 @@ backgrounds/vampires.jpg	resources/themes/vibe/Backgrounds/vampires.jpg
 backgrounds/warp.jpg	resources/themes/vibe/Backgrounds/warp.jpg
 backgrounds/snowblood.jpg	resources/themes/vibe/Backgrounds/snowblood.jpg
 backgrounds/dreamweaver.jpg	resources/themes/vibe/Backgrounds/dreamweaver.jpg
+backgrounds/junk-ground.jpg	resources/themes/vibe/Backgrounds/junk-ground.jpg
+backgrounds/junk-smoke.png	resources/themes/vibe/Backgrounds/junk-smoke.png
 backgrounds/junk.jpg	resources/themes/vibe/Backgrounds/junk.jpg
 backgrounds/battlemage.jpg	resources/themes/vibe/Backgrounds/battlemage.jpg
 backgrounds/antimancer.jpg	resources/themes/vibe/Backgrounds/antimancer.jpg
@@ -450,6 +454,14 @@ backgrounds/kinetician.jpg	resources/themes/vibe/Backgrounds/kinetician.jpg
 combat/raka.png	resources/Images/Combat/raka.tga
 combat/rakaSpell.png	resources/Images/Combat/rakaSpell.tga
 combat/slot.png	resources/Images/Combat/slot.tga
+combat/crystalize.png	resources/crystalize.png
+combat/sand.png	resources/sand.png
+combat/shield.png	resources/shield.png
+combat/death.png	resources/death.png
+combat/mortal.png	resources/mortal.png
+combat/hird.png	resources/hird.png
+combat/limbo.png	resources/limbo.png
+combat/cocoon.jpg	resources/themes/vibe/Cards/Cocoon.jpg
 particle/particle.png	core/src/main/resources/src/images/particle.png
 particle/smoke.png	core/src/main/resources/src/images/smoke.png
 particle/thin.png	core/src/main/resources/src/images/thin.png
@@ -534,6 +546,8 @@ portraits/tinker.png	core/src/main/resources/data/portraits/tinker.png
 portraits/vampires.png	core/src/main/resources/data/portraits/vampires.png
 portraits/warp.png	core/src/main/resources/data/portraits/warp.png
 portraits/zen.png	core/src/main/resources/data/portraits/zen.png
+campaign/map.jpg	core/src/main/resources/data/campaign/map.jpg
+campaign/epilogue.jpg	core/src/main/resources/data/campaign/epilogue.jpg
 sounds/apocalypse.mp3	core/src/main/resources/sounds/huge-explosion.mp3
 sounds/lightnin.mp3	core/src/main/resources/sounds/dry-thunder.mp3
 sounds/meditate.mp3	core/src/main/resources/sounds/isteak-bell.mp3
@@ -618,3 +632,9 @@ sounds/huge-explosion.mp3	core/src/main/resources/sounds/huge-explosion.mp3
 sounds/isteak-bell.mp3	core/src/main/resources/sounds/isteak-bell.mp3
 sounds/tiger.mp3	core/src/main/resources/sounds/tiger.mp3
 combat/slot.png	overrides/combat/slot.png
+sounds/eternalburial.mp3	overrides/sounds/eternalburial.mp3
+sounds/faeriefire.mp3	overrides/sounds/faeriefire.mp3
+sounds/infernalbargain.mp3	overrides/sounds/infernalbargain.mp3
+sounds/phantomfury.mp3	overrides/sounds/phantomfury.mp3
+sounds/shadowscythe.mp3	overrides/sounds/shadowscythe.mp3
+sounds/shadowwave.mp3	overrides/sounds/shadowwave.mp3

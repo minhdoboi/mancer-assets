@@ -5,7 +5,6 @@ in vec4 fragColor;
 
 uniform float size;
 uniform float cursor;
-uniform vec4 colDiffuse;
 
 out vec4 finalColor;
 
@@ -15,10 +14,11 @@ float roundedBox(vec2 p, vec2 halfExtent, float radius) {
 }
 
 void main() {
+  /* 200×200 quad, 50px pad, card origin at (50,50); same numbers as Scala sel.frag. */
   vec2 pixel = fragTexCoord * size;
-  vec2 rel = pixel - vec2(size * 0.5);
+  vec2 rel = pixel - vec2(94.0, 103.0);
 
-  float dist = roundedBox(rel, vec2(size * 0.42, size * 0.46), 4.0);
+  float dist = roundedBox(rel, vec2(44.0, 49.0), 4.0);
   float outside = smoothstep(0.0, 1.0, dist);
   float band = 1.0 - smoothstep(1.0, 11.0, dist);
 
@@ -35,5 +35,5 @@ void main() {
   alpha = clamp(alpha, 0.0, 0.8);
 
   vec3 color = vec3(0.9, 0.95, 1.0);
-  finalColor = vec4(color, alpha) * colDiffuse * fragColor;
+  finalColor = vec4(color, alpha) * fragColor;
 }
